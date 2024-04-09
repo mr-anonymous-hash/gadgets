@@ -1,0 +1,23 @@
+body{
+    
+    background-color: black
+    
+}
+div{
+    background-image: url('https://images.unsplash.com/photo-1621319332247-ce870cdad56c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdhZGdldHxlbnwwfHwwfHx8MA%3D%3D');
+    /* Additional styling */
+    
+    background-size:cover;
+}
+
+p{
+    color: white;
+    font-style: normal;
+    
+}
+ h1{
+    font-size: medium;
+    color: aliceblue;
+    font-family: Lucida;
+ }
+
